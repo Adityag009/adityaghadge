@@ -1,5 +1,3 @@
-# adityaghadge
-
 # Hello, I'm Aditya Ghadge! 👋
 
 ## Junior Data Scientist | Data Enthusiast | Tech Explorer
@@ -36,8 +34,7 @@ I'm a passionate Junior Data Scientist skilled in leveraging data to solve real-
 - **Metabolic Syndrome Analysis Using ML and DL**: Metabolic Syndrome Analysis: Exploratory Data Analysis and Predictive Modeling.
 - **Machine Learning for Hotel Reservation Predictions**: Predicting Customer Cancellations using Machine Learning Techniques.
 - **Image Classification Project**:  Developed a Deep learning model for classifying images
-- 
-
+  
 
 ---
 
@@ -91,6 +88,7 @@ This role has allowed me to hone my skills in a variety of areas, including mach
 
 - Data Science with ML, AI, GUI & VUI with Libraries of Python (Udemy)
 - NISM-Series-VIII: Equity Derivatives Certification
+  
 
 ---
 
